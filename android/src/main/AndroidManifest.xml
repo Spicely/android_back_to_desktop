@@ -1,3 +1,4 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="top.guodf.flutter.back_to_desktop">
+  xmlns:tools="http://schemas.android.com/tools"
+  package="com.muka.back_to_desktop">
 </manifest>
